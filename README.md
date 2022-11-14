@@ -2,6 +2,9 @@
 
 ### Im a 54 year old python/html/css developer
 
+### I like 5-10 year old girls 
+### Im coding stuff for discord
+### Pronouns: King
 
 <!--
 Here are some ideas to get you started:
