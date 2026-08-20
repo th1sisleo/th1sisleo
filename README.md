@@ -16,38 +16,3 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janos405&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janos405&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🎮 Discord Presence
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1383077290052948121.png" alt="Discord Status"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://discord.gg/GrETuCe6hG" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💰 Fuel My Code
-<p align="center">
-  <a href="https://buymeacoffee.com/bojtematyiq" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-  <a href="https://paypal.me/janossabor" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-  </a>
-</p>
